@@ -1,0 +1,3119 @@
+INFO: 2020-02-25 18:32:47,797: Start Cross Validation
+INFO: 2020-02-25 18:32:47,798: Train KNN
+INFO: 2020-02-25 18:32:47,906: The mean score for KNN: 0.730
+INFO: 2020-02-25 18:32:47,907: -------------------------------
+INFO: 2020-02-25 18:32:47,907: Train RF
+INFO: 2020-02-25 18:32:49,918: The mean score for RF: 0.777
+INFO: 2020-02-25 18:32:49,918: -------------------------------
+INFO: 2020-02-25 18:32:49,919: Train GB
+INFO: 2020-02-25 18:32:51,256: The mean score for GB: 0.779
+INFO: 2020-02-25 18:32:51,257: -------------------------------
+INFO: 2020-02-25 18:32:51,257: Train DTC
+INFO: 2020-02-25 18:32:51,319: The mean score for DTC: 0.699
+INFO: 2020-02-25 18:32:51,320: -------------------------------
+INFO: 2020-02-25 18:32:51,320: Train BC
+INFO: 2020-02-25 18:32:51,659: The mean score for BC: 0.746
+INFO: 2020-02-25 18:32:51,660: -------------------------------
+INFO: 2020-02-25 18:32:51,661: Train XGB
+INFO: 2020-02-25 18:32:52,464: The mean score for XGB: 0.792
+INFO: 2020-02-25 18:32:52,464: -------------------------------
+INFO: 2020-02-25 18:32:52,466: Train EXT
+INFO: 2020-02-25 18:32:54,168: The mean score for EXT: 0.751
+INFO: 2020-02-25 18:32:54,169: -------------------------------
+INFO: 2020-02-25 18:32:54,170: Train LG
+INFO: 2020-02-25 18:32:54,362: The mean score for LG: 0.810
+INFO: 2020-02-25 18:32:54,362: -------------------------------
+INFO: 2020-02-25 18:32:54,363: Train BBC
+INFO: 2020-02-25 18:32:54,881: The mean score for BBC: 0.710
+INFO: 2020-02-25 18:32:54,882: -------------------------------
+INFO: 2020-02-25 18:32:54,883: Train EEC
+INFO: 2020-02-25 18:33:04,403: The mean score for EEC: 0.689
+INFO: 2020-02-25 18:33:04,403: -------------------------------
+INFO: 2020-02-25 18:33:04,405: Cross Validation Ends
+INFO: 2020-02-27 12:35:49,684: Start Cross Validation
+INFO: 2020-02-27 12:35:49,724: Train KNN
+INFO: 2020-02-27 12:35:50,006: The mean score for KNN: 0.730
+INFO: 2020-02-27 12:35:50,006: -------------------------------
+INFO: 2020-02-27 12:35:50,007: Train RF
+INFO: 2020-02-27 12:35:52,221: The mean score for RF: 0.779
+INFO: 2020-02-27 12:35:52,221: -------------------------------
+INFO: 2020-02-27 12:35:52,222: Train GB
+INFO: 2020-02-27 12:35:53,600: The mean score for GB: 0.775
+INFO: 2020-02-27 12:35:53,600: -------------------------------
+INFO: 2020-02-27 12:35:53,601: Train DTC
+INFO: 2020-02-27 12:35:53,666: The mean score for DTC: 0.713
+INFO: 2020-02-27 12:35:53,667: -------------------------------
+INFO: 2020-02-27 12:35:53,668: Train BC
+INFO: 2020-02-27 12:35:54,032: The mean score for BC: 0.751
+INFO: 2020-02-27 12:35:54,032: -------------------------------
+INFO: 2020-02-27 12:35:54,034: Train XGB
+INFO: 2020-02-27 12:35:55,098: The mean score for XGB: 0.792
+INFO: 2020-02-27 12:35:55,098: -------------------------------
+INFO: 2020-02-27 12:35:55,099: Train EXT
+INFO: 2020-02-27 12:35:56,756: The mean score for EXT: 0.743
+INFO: 2020-02-27 12:35:56,756: -------------------------------
+INFO: 2020-02-27 12:35:56,757: Train LG
+INFO: 2020-02-27 12:35:57,861: The mean score for LG: 0.810
+INFO: 2020-02-27 12:35:57,861: -------------------------------
+INFO: 2020-02-27 12:35:57,862: Train BBC
+INFO: 2020-02-27 12:35:58,384: The mean score for BBC: 0.715
+INFO: 2020-02-27 12:35:58,384: -------------------------------
+INFO: 2020-02-27 12:35:58,385: Train EEC
+INFO: 2020-02-27 12:36:08,307: The mean score for EEC: 0.689
+INFO: 2020-02-27 12:36:08,307: -------------------------------
+INFO: 2020-02-27 12:36:08,308: Cross Validation Ends
+INFO: 2020-05-25 16:49:31,769: Start Cross Validation
+INFO: 2020-05-25 16:49:31,786: Train KNN
+INFO: 2020-05-25 16:49:31,973: The mean score for KNN: 0.730
+INFO: 2020-05-25 16:49:31,974: -------------------------------
+INFO: 2020-05-25 16:49:31,977: Train RF
+INFO: 2020-05-25 16:49:33,533: The mean score for RF: 0.772
+INFO: 2020-05-25 16:49:33,534: -------------------------------
+INFO: 2020-05-25 16:49:33,535: Train GB
+INFO: 2020-05-25 16:49:34,834: The mean score for GB: 0.777
+INFO: 2020-05-25 16:49:34,835: -------------------------------
+INFO: 2020-05-25 16:49:34,836: Train DTC
+INFO: 2020-05-25 16:49:34,912: The mean score for DTC: 0.714
+INFO: 2020-05-25 16:49:34,912: -------------------------------
+INFO: 2020-05-25 16:49:34,914: Train BC
+INFO: 2020-05-25 16:49:35,257: The mean score for BC: 0.764
+INFO: 2020-05-25 16:49:35,259: -------------------------------
+INFO: 2020-05-25 16:49:35,261: Train XGB
+INFO: 2020-05-25 16:49:36,248: The mean score for XGB: 0.762
+INFO: 2020-05-25 16:49:36,250: -------------------------------
+INFO: 2020-05-25 16:49:36,252: Train EXT
+INFO: 2020-05-25 16:49:37,703: The mean score for EXT: 0.756
+INFO: 2020-05-25 16:49:37,704: -------------------------------
+INFO: 2020-05-25 16:49:37,706: Train LG
+INFO: 2020-05-25 16:49:37,912: The mean score for LG: 0.810
+INFO: 2020-05-25 16:49:37,913: -------------------------------
+INFO: 2020-05-25 16:49:37,913: Train BBC
+INFO: 2020-05-25 16:49:38,370: The mean score for BBC: 0.705
+INFO: 2020-05-25 16:49:38,371: -------------------------------
+INFO: 2020-05-25 16:49:38,373: Train EEC
+INFO: 2020-05-25 16:49:46,526: The mean score for EEC: 0.707
+INFO: 2020-05-25 16:49:46,527: -------------------------------
+INFO: 2020-05-25 16:49:46,528: Cross Validation Ends
+INFO: 2020-05-26 23:36:23,381: Start Cross Validation
+INFO: 2020-05-26 23:36:23,381: Start Cross Validation
+INFO: 2020-05-26 23:36:23,381: Start Cross Validation
+INFO: 2020-05-26 23:36:23,381: Start Cross Validation
+INFO: 2020-05-26 23:36:23,383: Train LinearReg
+INFO: 2020-05-26 23:36:23,383: Train LinearReg
+INFO: 2020-05-26 23:36:23,383: Train LinearReg
+INFO: 2020-05-26 23:36:23,383: Train LinearReg
+INFO: 2020-05-26 23:42:04,328: Start Cross Validation
+INFO: 2020-05-26 23:42:04,328: Start Cross Validation
+INFO: 2020-05-26 23:42:04,328: Start Cross Validation
+INFO: 2020-05-26 23:42:04,328: Start Cross Validation
+INFO: 2020-05-26 23:42:04,328: Start Cross Validation
+INFO: 2020-05-26 23:42:04,330: Train LinearReg
+INFO: 2020-05-26 23:42:04,330: Train LinearReg
+INFO: 2020-05-26 23:42:04,330: Train LinearReg
+INFO: 2020-05-26 23:42:04,330: Train LinearReg
+INFO: 2020-05-26 23:42:04,330: Train LinearReg
+INFO: 2020-05-26 23:42:04,572: The mean score for LinearReg: 0.999
+INFO: 2020-05-26 23:42:04,572: The mean score for LinearReg: 0.999
+INFO: 2020-05-26 23:42:04,572: The mean score for LinearReg: 0.999
+INFO: 2020-05-26 23:42:04,572: The mean score for LinearReg: 0.999
+INFO: 2020-05-26 23:42:04,572: The mean score for LinearReg: 0.999
+INFO: 2020-05-26 23:42:04,573: -------------------------------
+INFO: 2020-05-26 23:42:04,573: -------------------------------
+INFO: 2020-05-26 23:42:04,573: -------------------------------
+INFO: 2020-05-26 23:42:04,573: -------------------------------
+INFO: 2020-05-26 23:42:04,573: -------------------------------
+INFO: 2020-05-26 23:42:04,576: Cross Validation Ends
+INFO: 2020-05-26 23:42:04,576: Cross Validation Ends
+INFO: 2020-05-26 23:42:04,576: Cross Validation Ends
+INFO: 2020-05-26 23:42:04,576: Cross Validation Ends
+INFO: 2020-05-26 23:42:04,576: Cross Validation Ends
+INFO: 2020-05-26 23:43:50,741: Start Cross Validation
+INFO: 2020-05-26 23:43:50,741: Start Cross Validation
+INFO: 2020-05-26 23:43:50,741: Start Cross Validation
+INFO: 2020-05-26 23:43:50,741: Start Cross Validation
+INFO: 2020-05-26 23:43:50,741: Start Cross Validation
+INFO: 2020-05-26 23:43:50,741: Start Cross Validation
+INFO: 2020-05-26 23:43:50,743: Train LinearReg
+INFO: 2020-05-26 23:43:50,743: Train LinearReg
+INFO: 2020-05-26 23:43:50,743: Train LinearReg
+INFO: 2020-05-26 23:43:50,743: Train LinearReg
+INFO: 2020-05-26 23:43:50,743: Train LinearReg
+INFO: 2020-05-26 23:43:50,743: Train LinearReg
+INFO: 2020-05-26 23:46:09,754: Start Cross Validation
+INFO: 2020-05-26 23:46:09,754: Start Cross Validation
+INFO: 2020-05-26 23:46:09,754: Start Cross Validation
+INFO: 2020-05-26 23:46:09,754: Start Cross Validation
+INFO: 2020-05-26 23:46:09,754: Start Cross Validation
+INFO: 2020-05-26 23:46:09,754: Start Cross Validation
+INFO: 2020-05-26 23:46:09,754: Start Cross Validation
+INFO: 2020-05-26 23:46:09,756: Train LinearReg
+INFO: 2020-05-26 23:46:09,756: Train LinearReg
+INFO: 2020-05-26 23:46:09,756: Train LinearReg
+INFO: 2020-05-26 23:46:09,756: Train LinearReg
+INFO: 2020-05-26 23:46:09,756: Train LinearReg
+INFO: 2020-05-26 23:46:09,756: Train LinearReg
+INFO: 2020-05-26 23:46:09,756: Train LinearReg
+INFO: 2020-05-26 23:46:35,777: Start Cross Validation
+INFO: 2020-05-26 23:46:35,777: Start Cross Validation
+INFO: 2020-05-26 23:46:35,777: Start Cross Validation
+INFO: 2020-05-26 23:46:35,777: Start Cross Validation
+INFO: 2020-05-26 23:46:35,777: Start Cross Validation
+INFO: 2020-05-26 23:46:35,777: Start Cross Validation
+INFO: 2020-05-26 23:46:35,777: Start Cross Validation
+INFO: 2020-05-26 23:46:35,777: Start Cross Validation
+INFO: 2020-05-26 23:46:35,780: Train LinearReg
+INFO: 2020-05-26 23:46:35,780: Train LinearReg
+INFO: 2020-05-26 23:46:35,780: Train LinearReg
+INFO: 2020-05-26 23:46:35,780: Train LinearReg
+INFO: 2020-05-26 23:46:35,780: Train LinearReg
+INFO: 2020-05-26 23:46:35,780: Train LinearReg
+INFO: 2020-05-26 23:46:35,780: Train LinearReg
+INFO: 2020-05-26 23:46:35,780: Train LinearReg
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,417: Start Cross Validation
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,420: Train LinearReg
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,655: Model: LinearReg ,Accuracy: %0.2f (+/- %0.2f)
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,657: -------------------------------
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:46:52,659: Cross Validation Ends
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,960: Start Cross Validation
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:20,963: Train LinearReg
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,789: Start Cross Validation
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:40,792: Train LinearReg
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,953: Start Cross Validation
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:47:54,955: Train LinearReg
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,909: Start Cross Validation
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:12,912: Train LinearReg
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,972: Start Cross Validation
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:23,975: Train LinearReg
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,207: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,209: -------------------------------
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:24,212: Cross Validation Ends
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,905: Start Cross Validation
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:35,908: Train LinearReg
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,144: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,146: -------------------------------
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-26 23:48:36,149: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,118: Start Cross Validation
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,121: Train LinearReg
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,350: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,352: -------------------------------
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,356: Train Ridge
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,528: Model: Ridge ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,530: -------------------------------
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,533: Train Lasso
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,774: Model: Lasso ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,776: -------------------------------
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:01:35,779: Cross Validation Ends
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,245: Beginning Cross Validation
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,248: Train LinearReg
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:06:12,436: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,228: Beginning Cross Validation
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,231: Train LinearReg
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:28,422: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,382: Beginning Cross Validation
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,384: Train LinearReg
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 00:08:45,567: Model: LinearReg ,Accuracy: 1.00 +/- 0.00
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,736: Beginning Cross Validation
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:16:33,740: Train LinearReg
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,229: Beginning Cross Validation
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:08,232: Train LinearReg
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,680: Beginning Cross Validation
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:18,684: Train LinearReg
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,242: Beginning Cross Validation
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:17:35,246: Train LinearReg
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,627: Beginning Cross Validation
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,631: Train LinearReg
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:03,855: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,817: Beginning Cross Validation
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:09,821: Train LinearReg
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,040: Model: LinearReg ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,043: -------------------------------
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,047: Train Ridge
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,215: Model: Ridge ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,219: -------------------------------
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,222: Train Lasso
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,476: Model: Lasso ,Accuracy: -0.01 +/- 0.04
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,479: -------------------------------
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:18:10,482: Cross Validation Ends
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,482: Beginning Cross Validation
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,486: Train LinearReg
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,696: Model: LinearReg ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,700: -------------------------------
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,703: Train Ridge
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,885: Model: Ridge ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,888: -------------------------------
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:04,892: Train Lasso
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,169: Model: Lasso ,Accuracy: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,173: -------------------------------
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:05,177: Cross Validation Ends
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,423: Beginning Cross Validation
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,426: Train LinearReg
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,632: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,635: -------------------------------
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,639: Train Ridge
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,825: Model: Ridge ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,829: -------------------------------
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:20,832: Train Lasso
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,101: Model: Lasso ,Mean Square Error: 0.01 +/- 0.04
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,105: -------------------------------
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:21,109: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,119: Beginning Cross Validation
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,123: Train LinearReg
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,309: Model: LinearReg ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,312: -------------------------------
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,315: Train Ridge
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,457: Model: Ridge ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,461: -------------------------------
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,464: Train Lasso
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,665: Model: Lasso ,Mean Square Error: 0.01 +/- 0.02
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,668: -------------------------------
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:21:46,671: Cross Validation Ends
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,943: Beginning Cross Validation
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:11,947: Train LinearReg
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,105: Model: LinearReg ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,107: -------------------------------
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,111: Train Ridge
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,245: Model: Ridge ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,248: -------------------------------
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,252: Train Lasso
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,449: Model: Lasso ,Mean Square Error: -1.00 +/- 0.00
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,453: -------------------------------
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:12,456: Cross Validation Ends
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,487: Beginning Cross Validation
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,491: Train LinearReg
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,662: Model: LinearReg ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,666: -------------------------------
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,670: Train Ridge
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,807: Model: Ridge ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,810: -------------------------------
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:22,814: Train Lasso
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,010: Model: Lasso ,Mean Square Error: 1.00 +/- 0.00
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,013: -------------------------------
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
+INFO: 2020-05-27 01:27:23,017: Cross Validation Ends
