@@ -7,7 +7,7 @@ class call_model(APIView):
     def get(self,request):
         if request.method == 'GET':
             # get sound from request
-            var = request.GET.getlist('var')
+            var = request.GET.get('var')
             x = np.array(var)
             x = x.reshape(1,-1)
             prediction = PredictorConfig.model.predict(x)
