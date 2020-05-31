@@ -17,5 +17,6 @@ Including another URLconf
 from django.urls import path
 from predictor import views
 urlpatterns = [
+    path('', views.home),
     path('classify/', views.call_model.as_view())
 ]
