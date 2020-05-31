@@ -1,0 +1,9 @@
+
+- The site was made using Django rest framework
+- Download the repository
+- install the required libraries
+- open terminal
+- goto Ml-trail-task\model_site\api
+- run: python manage.py runserver # this should run the site on local host
+- enter http://localhost:8000/ in browser url
+- this should run the site 

@@ -19,9 +19,13 @@ class call_model(APIView):
             # reshaping input to desirable shape
             x = x.reshape(1,4)
             # passing features into model
-            prediction = PredictorConfig.model.predict(x)
+            prediction = []
+            prediction.append(PredictorConfig.model1.predict(x))
+            prediction.append(PredictorConfig.model2.predict(x))
+            prediction.append(PredictorConfig.model3.predict(x))
             
             # build response
-            response = {'y': list(prediction)}
-            # return response
-            return JsonResponse(response)
+            response = {'Linear Regression': list(prediction[0]),'Lasso': list(prediction[1]),'Rigde': list(prediction[2])}
+            # returns the response to answer.html
+            return render(request, 'answer.html', {'answer1':response['Linear Regression'],'answer2':response['Lasso'],'answer3':response['Rigde']})
+
